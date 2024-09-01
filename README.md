@@ -1,3 +1,3 @@
 # ash
 this is my first repository.<br>
-author-rishu kumar 
+author-(rishu kumar) 
